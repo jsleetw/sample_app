@@ -154,7 +154,7 @@ DEPENDENCIES
   guard-spork (= 0.3.2)
   jquery-rails (= 2.0.0)
   libnotify (= 0.5.9)
-  rails (= 3.2.1)
+  rails (>= 3.2.1)
   rb-inotify (= 0.8.8)
   rspec-rails (= 2.8.1)
   sass-rails (= 3.2.3)
